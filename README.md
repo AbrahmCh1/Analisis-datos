@@ -10,7 +10,7 @@ de datos, pueden revisar el dataset en el siguiente link:
 https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 
 
-# Contenido📋
+### Contenido📋
 Este Dataset es un archivo .Csv con 10 columnas.
 
 Markup : * status (Estatús de la casa - a. Lista para vender ó b. Lista para construir)
@@ -24,6 +24,6 @@ Markup : * status (Estatús de la casa - a. Lista para vender ó b. Lista para c
          * prev_sold_date (Fecha de la última venta de la propiedad)
          * price (Precio de la propiedad)
          
-# DISCLAIMER⚠️
+### DISCLAIMER⚠️
 Los datos y la información utilizados en este dataset fueron usados únicamente con fines educativos. No soy dueño de los datos y los derechos de estos mismos   están reservados a sus respectivos dueños.
                 
