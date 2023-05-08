@@ -13,16 +13,16 @@ https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 ### Contenido📋
 Este Dataset es un archivo .Csv con 10 columnas.
 
-Markup : * status (Estatús de la casa - a. Lista para vender ó b. Lista para construir)
-         * bed (Número de camas)
-         * bath (Número de baños)
-         * acre_lot (Tamaño del terreno)
-         * city (Nombre de la ciudad)
-         * state (Nombre del estado)
-         * zip_code (Código postal del área)
-         * house_size (Tamaño de la construcción)
-         * prev_sold_date (Fecha de la última venta de la propiedad)
-         * price (Precio de la propiedad)
+ * status (Estatús de la casa - a. Lista para vender ó b. Lista para construir)
+ * bed (Número de camas)
+ * bath (Número de baños)
+ * acre_lot (Tamaño del terreno)
+ * city (Nombre de la ciudad)
+ * state (Nombre del estado)
+ * zip_code (Código postal del área)
+ * house_size (Tamaño de la construcción)
+ * prev_sold_date (Fecha de la última venta de la propiedad)
+ * price (Precio de la propiedad)
          
 ### DISCLAIMER⚠️
 Los datos y la información utilizados en este dataset fueron usados únicamente con fines educativos. No soy dueño de los datos y los derechos de estos mismos   están reservados a sus respectivos dueños.
